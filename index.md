@@ -373,6 +373,7 @@ Free Software Contributor)
 1. Axel De Acetis
 1. Babak Farrokhi (FreeBSD Developer)
 1. Baciu Florin-George ('bfgelectronics',BFG-E#2734)
+1. Balachandran Sivakumar (benignbala)
 1. Bailey (the2048)
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
